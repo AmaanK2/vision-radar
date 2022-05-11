@@ -20,3 +20,5 @@ Install the required packages:
 
 Run main.py:
 - python3 main.py
+
+<img width="585" alt="Screen Shot 2022-05-11 at 11 20 34 AM" src="https://user-images.githubusercontent.com/82610468/167887132-8623061d-2b75-417a-8965-af45a6e217fb.png">
