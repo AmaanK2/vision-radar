@@ -9,8 +9,10 @@ and [@nikebless](https://github.com/nikebless) for a lot of the project code [mo
 ##Instructions to run
 
 ###Run the following commands:
-- Make sure to have python and pip3 installed beforehand.
+- Make sure to have python, git and pip3 installed beforehand.
 - Make sure that you have a version older than python 3.10 installed since onnxruntime is not supported with the newest version of python. Python 3.9 is a good option and do not forget to change the base interpreter to this python version on your IDE of choice.
+
+If you are using pycharm as your IDE, you can simply click VCS and then Get From Version Control. Then paste the link of this github page you should have all the necessary files in your directory to run the program.
 
 Install the required packages:
 - pip3 install onnxruntime
