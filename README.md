@@ -10,6 +10,7 @@ and [@nikebless](https://github.com/nikebless) for a lot of the project code [mo
 
 ###Run the following commands:
 Make sure to have python and pip3 installed beforehand.
+Make sure that you have a version older than python 3.10 installed since onnxruntime is not supported with the newest version of python
 
 Install the required packages:
 - pip3 install onnxruntime
